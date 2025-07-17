@@ -1,1 +1,1 @@
-# Sumer-Training-IITM
+# SumMer-Training-IITM
