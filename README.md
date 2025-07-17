@@ -1,1 +1,1 @@
-# SumMer-Training-IITM
+# Summer-Training-IITM
